@@ -22,6 +22,6 @@ const server = app.listen(PORT, () => {
     console.log(`Listening to http://localhost:${PORT}`)
 }) 
 
-module.exports = server;
+module.exports =  server; 
 
 
